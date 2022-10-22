@@ -1,1 +1,46 @@
+body {
+  background-color: #4E8098;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+  font-family: 'Source Sans Pro', sans-serif;}
+
+h3 {
+  color:black;
+  font-size: 40px;  
+}
+
+h4 {
+  color: white;
+  font-size: 30px;
+  text-decoration: underline;
+  
+  
+}
+
+
+.header {
+  background-color: black;
+  padding-left: 10px;
+}
+
+p {
+  color:white
+  
+  
+}
+
+li{
+  
+}
+
+.footer {
+border: 1px solid black;
+}
+div{
+  padding-left: 15px
+}
+
 
